@@ -1,0 +1,2 @@
+# HOME-SECURITY-AND-INTRUDER-DETECTION-MANAGEMENT
+The goal of this project is to create a home security system based on the Raspberry Pi. Through remote sensing, this function provides inhabitants with protection and information. To finish this project, team members utilise a PIR sensor to detect a house's motion information. 
