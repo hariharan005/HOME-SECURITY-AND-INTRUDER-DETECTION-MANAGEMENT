@@ -7,5 +7,6 @@ Security notifications will be sent through email and SMS to ensure that the own
   h1{
       color: red;
   }
+</style>
 <h1 style="color:blue;">Hello hari</h1>
 
