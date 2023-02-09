@@ -3,6 +3,9 @@ The goal of this project is to create a home security system based on the Raspbe
 
 Security notifications will be sent through email and SMS to ensure that the owner is aware of any potentially unexpected or harmful conditions. The purpose of this project is to replace the present DLINK security system with one that does not require information sharing and control from the cloud.
 
-
+<style>
+  h1{
+      color: red;
+  }
 <h1 style="color:blue;">Hello hari</h1>
 
