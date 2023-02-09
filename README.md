@@ -5,5 +5,5 @@ Security notifications will be sent through email and SMS to ensure that the own
 
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-<h1 style="color:blue;">Hello hari</h1>
+<h1 color="blue">Hello hari</h1>
 
